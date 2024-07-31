@@ -10,48 +10,48 @@ l_english:
  ## If not then I'm going to appear on your bedroom at 2AM brandishing an axe
 
  # A
- ADL: "Republic of Andalusia"
- ADL_DEF: "the Republic of Andalusia"
+ ADL: "República de Andalucía"
+ ADL_DEF: "República de Andalucía"
  ADL_ADJ: "Andalusian"
 
- ADN: "Andean Pact"
- ADN_DEF: "the Andean Pact"
+ ADN: "Pacto Andino"
+ ADN_DEF: "el Pacto Andino"
  ADN_ADJ: "Pacto Andino"
 
- AFR: "Afar"
- AFR_DEF: "Afar"
- AFR_ADJ: "Afari"
+ AFR: "Qafar"
+ AFR_DEF: "Qafar"
+ AFR_ADJ: "Qafari"
 
  AGS: "Angriffsgruppe Steiner"
  AGS_DEF: "Angriffsgruppe Steiner"
  AGS_ADJ: "Angriffsgruppe Steiner"
 
- ALB: "Albania"
- ALB_DEF: "Albania"
- ALB_ADJ: "Albanian"
+ ALB: "Shqipëria"
+ ALB_DEF: "Shqipëria"
+ ALB_ADJ: "Shqiptare"
 
- ALG: "Algeria"
- ALG_DEF: "Algeria"
- ALG_communist: "Socialist Algerian Republic"
- ALG_communist_DEF: "the Socialist Algerian Republic"
- ALG_socialist: "Socialist Algerian Republic"
- ALG_socialist_DEF: "the Socialist Algerian Republic"
- ALG_ADJ: "Algerian"
+ ALG: "Algérie"
+ ALG_DEF: "l'Algérie"
+ ALG_communist: "République algérienne socialiste"
+ ALG_communist_DEF: "la République algérienne socialiste"
+ ALG_socialist: "République algérienne socialiste"
+ ALG_socialist_DEF: "la République algérienne socialiste"
+ ALG_ADJ: "Algérien"
 
- ALT: "Oyrotia"
- ALT_DEF: "Oyrotia"
- ALT_paternalism_DEF: "the Karakorum Government of Oyrotia"
+ ALT: "Karakorumskoye pravitel'stvo Oyrotii"
+ ALT_DEF: "Karakorumskoye pravitel'stvo Oyrotii"
+ ALT_paternalism_DEF: "Karakorumskoye pravitel'stvo Oyrotii"
  ALT_ADJ: "Oyrot"
 
- AMR: "Amur"
- AMR_DEF: "Amur"
- AMR_fascism_DEF: "the All-Russian Government of Amur"
- AMR_national_socialism_DEF: "the All-Russian Government of Amur"
- AMR_ultranationalism_DEF: "the All-Russian Government of Amur"
+ AMR: "Vserossiyskoye pravitel'stvo Priamur'ya"
+ AMR_DEF: "Vserossiyskoye pravitel'stvo Priamur'ya"
+ AMR_fascism_DEF: "Vserossiyskoye pravitel'stvo Priamur'ya"
+ AMR_national_socialism_DEF: "Vserossiyskoye pravitel'stvo Priamur'ya"
+ AMR_ultranationalism_DEF: "Vserossiyskoye pravitel'stvo Priamur'ya"
  AMR_ADJ: "Amur"
 
- ANG: "Republic of Angola"
- ANG_DEF: "the Republic of Angola"
+ ANG: "República de Angola"
+ ANG_DEF: "a República de Angola"
  ANG_ADJ: "Angolan"
 
  ANT: "Antigua and Barbuda"
@@ -62,12 +62,12 @@ l_english:
  APF_DEF: "Arische Volksfront"
  APF_ADJ: "Volksfront"
 
- ARP: "Argentine Occupation Zone"
- ARP_DEF: "the Argentine Occupation Zone in Paraguay"
+ ARP: "Zona de Ocupación Argentina en Paraguay"
+ ARP_DEF: "la zona de ocupación argentina en Paraguay"
  ARP_ADJ: "Argentinian"
 
- ARG: "Argentina"
- ARG_DEF: "the Argentine Republic"
+ ARG: "República Argentina"
+ ARG_DEF: "la República Argentina"
  ARG_ADJ: "Argentine"
 
  AUS: "Gebirgsjägerkern Ostmark"
@@ -87,28 +87,28 @@ l_english:
  BAH_DEF: "the Bahamas"
  BAH_ADJ: "Bahamian"
 
- BGR: "Bormann's Germany"
- BGR_DEF: "Bormann's Germany"
+ BGR: "Bormanns Deutschland"
+ BGR_DEF: "Bormanns Deutschland"
  BGR_ADJ: "German"
 
- BKR: "Bashkortostan"
- BKR_DEF: "the Bashkortostan Republic"
+ BKR: "Respublika Bashkortostan"
+ BKR_DEF: "Respublika Bashkortostan"
  BKR_ADJ: "Bashkir"
 
- BLR: "Republic of Belarus"
- BLR_DEF: "the Republic of Belarus"
+ BLR: "Respublika Bielaruś"
+ BLR_DEF: "respublika Bielaruś"
  BLR_ADJ: "Belarusian"
 
- BOL: "Bolivia"
- BOL_DEF: "the Republic of Bolivia"
+ BOL: "República de Bolivia"
+ BOL_DEF: "La República de Bolivia"
  BOL_ADJ: "Bolivian"
 
- BOS: "Republic of Bosnia"
- BOS_DEF: "the Republic of Bosnia"
+ BOS: "Republike Bosne"
+ BOS_DEF: "Republiku Bosnu"
  BOS_ADJ: "Bosnian"
 
- BRA: "Brazil"
- BRA_DEF: "the Republic of the United States of Brazil"
+ BRA: "República dos Estados Unidos do Brasil"
+ BRA_DEF: "república dos Estados Unidos do Brasil"
  BRA_ADJ: "Brazilian"
 
  BRB: "Barbados"
@@ -119,15 +119,15 @@ l_english:
  BRM_DEF: "Bermuda"
  BRM_ADJ: "Bermudian"
 
- BRP: "Brazilian Occupation Zone"
- BRP_DEF: "the Brazilian Occupation Zone in Paraguay"
+ BRP: "Zona de Ocupação Brasileira no Paraguai"
+ BRP_DEF: "a Zona de Ocupação Brasileira no Paraguai"
  BRP_ADJ: "Brazilian"
 
  BSO: "Free Britain"
  BSO_DEF: "Special Operations Executive"
  BSO_ADJ: "British"
 
- BSQ: "Basque Republic"
+ BSQ: "Euskal Errepublika"
  BSQ_DEF: "the Basque Republic"
  BSQ_ADJ: "Basque"
 
@@ -135,8 +135,8 @@ l_english:
  BTO_DEF: "the British Workers' Front"
  BTO_ADJ: "British"
 
- BUL: "Tsardom of Bulgaria"
- BUL_DEF: "the Tsardom of Bulgaria"
+ BUL: "Tsarstvo bŭlgarsko"
+ BUL_DEF: "tsarstvo bŭlgarsko"
  BUL_ADJ: "Bulgarian"
 
  # C
@@ -144,8 +144,8 @@ l_english:
  CAN_DEF: "Canada"
  CAN_ADJ: "Canadian"
 
- CHL: "Chile"
- CHL_DEF: "the Republic of Chile"
+ CHL: "República de Chile"
+ CHL_DEF: "la República de Chile"
  CHL_ADJ: "Chilean"
 
  CHT: "Chita"
@@ -156,24 +156,24 @@ l_english:
  CHT_despotism_DEF: "the Transbaikal Principality"
  CHT_ADJ: "Chitan"
  
- CME: "COMECON"
- CME_DEF: "the Council for Mutual Economic Assistance"
+ CME: "SEV"
+ CME_DEF: "Sovet Ekonomicheskoy Vzaimopomoshchi"
  CME_ADJ: "COMECON"
 
- CNT: "Catalan Republic"
- CNT_DEF: "the Catalan Republic"
- CNT_communist: "Free Catalonia"
- CNT_communist_DEF: "Free Catalonia"
- CNT_socialist: "Catalan Popular Front"
- CNT_socialist_DEF: "the Catalan Popular Front"
+ CNT: "República Catalana"
+ CNT_DEF: "la República Catalana"
+ CNT_communist: "Catalunya Lliure"
+ CNT_communist_DEF: "Catalunya Lliure"
+ CNT_socialist: "Front Popular Català"
+ CNT_socialist_DEF: "el Front Popular Català"
  CNT_ADJ: "Catalan"
  
- COG: "Republic of Congo"
- COG_DEF: "the Republic of Congo"
+ COG: "République du Congo"
+ COG_DEF: "la République du Congo"
  COG_ADJ: "Congolese"
 
- COS: "Costa Rica"
- COS_DEF: "the Republic of Costa Rica"
+ COS: "República de Costa Rica"
+ COS_DEF: "la República de Costa Rica"
  COS_ADJ: "Costa Rican"
 
  CRI: "Reichsgau Gotenland"
@@ -184,16 +184,16 @@ l_english:
  CRN_DEF: "die Militärverwaltung der Britischen Inseln"
  CRN_ADJ: "Cornwall Garrisonian"
 
- CRO: "Kingdom of Croatia"
- CRO_DEF: "the Kingdom of Croatia"
- CRO_national_socialism: "Independent State of Croatia"
- CRO_national_socialism_DEF: "the Independent State of Croatia"
- CRO_ultranationalism: "Independent State of Croatia"
- CRO_ultranationalism_DEF: "the Independent State of Croatia"
+ CRO: "Kraljevine Hrvatske"
+ CRO_DEF: "kraljevina Hrvatska"
+ CRO_national_socialism: "Nezavisna Država Hrvatska"
+ CRO_national_socialism_DEF: "nezavisnu Državu Hrvatsku"
+ CRO_ultranationalism: "Nezavisna Država Hrvatska"
+ CRO_ultranationalism_DEF: "nezavisnu Državu Hrvatsku"
  CRO_ADJ: "Croatian"
 
- CUB: "Cuba"
- CUB_DEF: "the Republic of Cuba"
+ CUB: "República de Cuba"
+ CUB_DEF: "La República de Cuba"
  CUB_ADJ: "Cuban"
 
  CUR: "Curaçao"
@@ -204,8 +204,8 @@ l_english:
  CZE_DEF: "Wehrkreis XIX"
  CZE_ADJ: "Bohemian"
 
- DEN: "Denmark"
- DEN_DEF: "the Kingdom of Denmark"
+ DEN: "Kongeriget Danmark"
+ DEN_DEF: "kongeriget Danmark"
  DEN_ADJ: "Danish"
 
  DFK: "Deutsches Freikorps"
