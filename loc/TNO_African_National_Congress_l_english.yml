@@ -1,12 +1,12 @@
 ﻿l_english:
  ### Country Names ###
- ANC: "African National Congress"
- ANC_DEF: "the African National Congress"
+ ANC: "Umbutho ophethe ilizwe"
+ ANC_DEF: "Umbutho ophethe ilizwe"
  ANC_ADJ: "African"
 
  ## Cosemetic Tags ##
- ANC_DURBAN: "Durban Socialist Republic"
- ANC_DURBAN_DEF: "the Durban Socialist Republic"
+ ANC_DURBAN: "IRiphabhliki yoSocialist yaseThekwini"
+ ANC_DURBAN_DEF: "IRiphabhliki yoSocialist yaseThekwini"
  ANC_DURBAN_ADJ: "Durbanite"
 
  ### Parties ###
