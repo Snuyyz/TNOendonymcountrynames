@@ -22,6 +22,13 @@ l_english:
  CRO_normal_despotism_DEF:0 "Republike Hrvatske"
  CRO_normal_despotism_ADJ:0 "Croatian"
 
+ ARM: "Hayastani Hanrapetut’yun"
+ ARM_DEF: "Hayastani Hanrapetut’yun"
+ ARM_ADJ: "Armenian"
+
+ ARM_post_war: "Hayastani yerkrord Hanrapetut’yun"
+ ARM_post_war_DEF: "Hayastani yerkrord Hanrapetut’yun"
+
  AZD_Zaire: "République ya Zaïre"
  AZD_Zaire_DEF: "République ya Zaïre"
  AZD_Zaire_ADJ: "Zairian"
