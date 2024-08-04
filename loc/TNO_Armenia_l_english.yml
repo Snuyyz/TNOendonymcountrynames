@@ -1,12 +1,12 @@
 ﻿l_english:
  ### Country Names ###
- ARM: "Armenia"
- ARM_DEF: "the Republic of Armenia"
+ ARM: "Hayastani Hanrapetut’yun"
+ ARM_DEF: "Hayastani Hanrapetut’yun"
  ARM_ADJ: "Armenian"
 
  ## Cosmetic Tags ##
- ARM_post_war: "Armenia"
- ARM_post_war_DEF: "the Second Republic of Armenia"
+ ARM_post_war: "Hayastani yerkrord Hanrapetut’yun"
+ ARM_post_war_DEF: "Hayastani yerkrord Hanrapetut’yun"
 
  ### Parties ###
  ARM_communist_party: "Hayki Vordinery"
