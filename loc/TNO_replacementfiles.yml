@@ -40,3 +40,53 @@ l_english:
  AZW: "Aitihad Al'tawariq fi 'Azwad"
  AZW_DEF: "Aitihad Al'tawariq fi 'Azwad"
  AZW_ADJ: "Azawadi"
+
+ ANC: "Umbutho ophethe ilizwe"
+ ANC_DEF: "Umbutho ophethe ilizwe"
+ ANC_ADJ: "African"
+
+ AFG: "De Afganistdn Šahi Dawlat"
+ AFG_DEF: "De Afganistdn Šahi Dawlat"
+ AFG_ADJ: "Afghan"
+
+ AFG_republic: "De Afganistan dzmhoryt"
+ AFG_republic_DEF: "De Afganistan dzmhoryt"
+
+ AFG_republic_amin: "De Afganistan dzmhoryt"
+ AFG_republic_amin_DEF: "De Afganistan dzmhoryt"
+
+ AFG_mao: "De Afganistan inqlabe dzmhoryt"
+ AFG_mao_DEF: "De Afganistan inqlabe dzmhoryt"
+
+ AFG_islamist: "De Afganistan Islami Imarat"
+ AFG_islamist_DEF: "De Afganistan Islami Imarat"
+ 
+ ANC_DURBAN: "IRiphabhliki yoSocialist yaseThekwini"
+ ANC_DURBAN_DEF: "IRiphabhliki yoSocialist yaseThekwini"
+ ANC_DURBAN_ADJ: "Durbanite"
+
+ ALB_communist:0 "Albania"
+ ALB_communist_DEF:0 "the People's Repubic of Albania"
+ ALB_communist_ADJ:0 "Albanian"
+ ALB_socialist:0 "Albania"
+ ALB_socialist_DEF:0 "the People's Republic of Albania"
+ ALB_socialist_ADJ:0 "Albanian"
+ ALB_conservatism:0 "Albania"
+ ALB_conservatism_DEF:0 "the Republic of Albania"
+ ALB_conservatism_ADJ:0 "Albanian"
+ ALB_paternalism:0 "Albania"
+ ALB_paternalism_DEF:0 "the Kingdom of Albania"
+ ALB_paternalism_ADJ:0 "Albanian"
+
+ AZR: "Azerbaijan"
+ AZR_DEF: "the Azerbaijan"
+ AZR_ADJ: "Azerbaijani"
+
+ CAF: "République ti Beafrîkan"
+ CAF_DEF: "République ti Beafrîkan"
+ CAF_despotism: "Letäa ti Bêafrîkan"
+ CAF_despotism_DEF: "Letäa ti Bêafrîkan"
+ CAF_ADJ: "Bêafrîkan"
+
+ CAF_CPR_puppet: "République socialiste ti Béafrika"
+ CAF_CPR_puppet_DEF: "République socialiste ti Béafrika"
