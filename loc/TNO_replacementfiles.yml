@@ -22,6 +22,10 @@ l_english:
  CRO_normal_despotism_DEF:0 "Republike Hrvatske"
  CRO_normal_despotism_ADJ:0 "Croatian"
 
+ AZD_Zaire: "République ya Zaïre"
+ AZD_Zaire_DEF: "République ya Zaïre"
+ AZD_Zaire_ADJ: "Zairian"
+
  AZW: "Aitihad Al'tawariq fi 'Azwad"
  AZW_DEF: "Aitihad Al'tawariq fi 'Azwad"
  AZW_ADJ: "Azawadi"
